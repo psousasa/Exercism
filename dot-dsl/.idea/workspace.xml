@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="398151d6-a471-4894-a6af-c6b73d17bd13" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dot_dsl.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="53" column="56" selection-start-line="53" selection-start-column="56" selection-end-line="53" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dot_dsl_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="103" column="41" selection-start-line="103" selection-start-column="18" selection-end-line="103" selection-end-column="41" />
+              <folding>
+                <element signature="e#152#278#0" />
+                <element signature="e#328#506#0" />
+                <element signature="e#338#377#0" />
+                <element signature="e#570#780#0" />
+                <element signature="e#580#635#0" />
+                <element signature="e#830#1018#0" />
+                <element signature="e#840#884#0" />
+                <element signature="e#1073#1251#0" />
+                <element signature="e#1083#1125#0" />
+                <element signature="e#1303#2084#0" />
+                <element signature="e#1313#1638#0" />
+                <element signature="e#1675#1822#0" />
+                <element signature="e#1858#1948#0" />
+                <element signature="e#1984#2083#0" />
+                <element signature="e#2130#2284#0" />
+                <element signature="e#2335#2549#0" />
+                <element signature="e#2393#2434#0" />
+                <element signature="e#2399#2433#0" />
+                <element signature="e#2502#2549#0" />
+                <element signature="e#2508#2548#0" />
+                <element signature="e#2594#2707#0" />
+                <element signature="e#2653#2707#0" />
+                <element signature="e#2659#2706#0" />
+                <element signature="e#2752#2865#0" />
+                <element signature="e#2811#2865#0" />
+                <element signature="e#2817#2864#0" />
+                <element signature="e#2969#3020#0" />
+                <element signature="e#2975#3019#0" />
+                <element signature="e#3063#3171#0" />
+                <element signature="e#3122#3171#0" />
+                <element signature="e#3128#3170#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>is_valid</find>
+      <find>is_va</find>
+      <find>valid</find>
+      <find>print</find>
+      <find>assertRaisesWithMessage</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dot_dsl_test.py" />
+        <option value="$PROJECT_DIR$/dot_dsl.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="948" />
+    <option name="y" value="-12" />
+    <option name="width" value="984" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dot-dsl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dot-dsl" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for dot_dsl_test.DotDslTest">
+    <configuration name="Unittests for dot_dsl_test.DotDslTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="dot-dsl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;dot_dsl_test.DotDslTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for dot_dsl_test.DotDslTest.test_malformed_EDGE" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="dot-dsl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;dot_dsl_test.DotDslTest.test_malformed_EDGE&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for dot_dsl_test.DotDslTest.test_malformed_attr" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="dot-dsl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;dot_dsl_test.DotDslTest.test_malformed_attr&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for dot_dsl_test.DotDslTest.test_malformed_node" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="dot-dsl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;dot_dsl_test.DotDslTest.test_malformed_node&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for dot_dsl_test.DotDslTest.test_unknown_item" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="dot-dsl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;dot_dsl_test.DotDslTest.test_unknown_item&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for dot_dsl_test.DotDslTest" />
+        <item itemvalue="Python tests.Unittests for dot_dsl_test.DotDslTest.test_unknown_item" />
+        <item itemvalue="Python tests.Unittests for dot_dsl_test.DotDslTest.test_malformed_EDGE" />
+        <item itemvalue="Python tests.Unittests for dot_dsl_test.DotDslTest.test_malformed_node" />
+        <item itemvalue="Python tests.Unittests for dot_dsl_test.DotDslTest.test_malformed_attr" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="398151d6-a471-4894-a6af-c6b73d17bd13" name="Default Changelist" comment="" />
+      <created>1576353934545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576353934545</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_dot_dsl_test_DotDslTest_test_malformed_graph_item - 2019.12.15 at 11h 54m 15s.xml">
+      <configuration name="Unittests for dot_dsl_test.DotDslTest.test_malformed_graph_item" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_dot_dsl_test_DotDslTest_test_malformed_graph_item - 2019.12.15 at 11h 59m 38s.xml">
+      <configuration name="Unittests for dot_dsl_test.DotDslTest.test_malformed_graph_item" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_dot_dsl_test_DotDslTest_test_malformed_graph_item - 2019.12.15 at 12h 00m 23s.xml">
+      <configuration name="Unittests for dot_dsl_test.DotDslTest.test_malformed_graph_item" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_dot_dsl_test_DotDslTest_test_malformed_attr - 2019.12.15 at 12h 00m 29s.xml">
+      <configuration name="Unittests for dot_dsl_test.DotDslTest.test_malformed_attr" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_dot_dsl_test_DotDslTest_test_malformed_node - 2019.12.15 at 12h 00m 35s.xml">
+      <configuration name="Unittests for dot_dsl_test.DotDslTest.test_malformed_node" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_dot_dsl_test_DotDslTest_test_malformed_EDGE - 2019.12.15 at 12h 00m 41s.xml">
+      <configuration name="Unittests for dot_dsl_test.DotDslTest.test_malformed_EDGE" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_dot_dsl_test_DotDslTest_test_unknown_item - 2019.12.15 at 12h 00m 46s.xml">
+      <configuration name="Unittests for dot_dsl_test.DotDslTest.test_unknown_item" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_dot_dsl_test_DotDslTest_test_unknown_item - 2019.12.15 at 12h 04m 49s.xml">
+      <configuration name="Unittests for dot_dsl_test.DotDslTest.test_unknown_item" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_dot_dsl_test_DotDslTest_test_unknown_item - 2019.12.15 at 12h 05m 05s.xml">
+      <configuration name="Unittests for dot_dsl_test.DotDslTest.test_unknown_item" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_dot_dsl_test_DotDslTest - 2019.12.15 at 12h 05m 13s.xml">
+      <configuration name="Unittests for dot_dsl_test.DotDslTest" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32978722" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Untitled.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-970" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dot_dsl_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="103" column="41" selection-start-line="103" selection-start-column="18" selection-end-line="103" selection-end-column="41" />
+          <folding>
+            <element signature="e#152#278#0" />
+            <element signature="e#328#506#0" />
+            <element signature="e#338#377#0" />
+            <element signature="e#570#780#0" />
+            <element signature="e#580#635#0" />
+            <element signature="e#830#1018#0" />
+            <element signature="e#840#884#0" />
+            <element signature="e#1073#1251#0" />
+            <element signature="e#1083#1125#0" />
+            <element signature="e#1303#2084#0" />
+            <element signature="e#1313#1638#0" />
+            <element signature="e#1675#1822#0" />
+            <element signature="e#1858#1948#0" />
+            <element signature="e#1984#2083#0" />
+            <element signature="e#2130#2284#0" />
+            <element signature="e#2335#2549#0" />
+            <element signature="e#2393#2434#0" />
+            <element signature="e#2399#2433#0" />
+            <element signature="e#2502#2549#0" />
+            <element signature="e#2508#2548#0" />
+            <element signature="e#2594#2707#0" />
+            <element signature="e#2653#2707#0" />
+            <element signature="e#2659#2706#0" />
+            <element signature="e#2752#2865#0" />
+            <element signature="e#2811#2865#0" />
+            <element signature="e#2817#2864#0" />
+            <element signature="e#2969#3020#0" />
+            <element signature="e#2975#3019#0" />
+            <element signature="e#3063#3171#0" />
+            <element signature="e#3122#3171#0" />
+            <element signature="e#3128#3170#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dot_dsl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="53" column="56" selection-start-line="53" selection-start-column="56" selection-end-line="53" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
